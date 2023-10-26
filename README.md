@@ -22,7 +22,7 @@ class DevEnnik():
     self.name = "Macky Daus";
     self.username = "devennik";
     self.location = "MNL | DUB";
-    self.twitter = "@themakkiavelli";
+    self.twitter = "@kuyafunk";
     self.web = "https://mackydaus.com";
   
   def __str__(self):
